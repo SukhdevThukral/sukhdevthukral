@@ -29,7 +29,6 @@ education:
   [
     "Self-Taught Developer and Designer",
   ]
-company: Soulber
 fields_of_interests:
   [
     "Web Development",
